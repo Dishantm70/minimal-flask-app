@@ -23,6 +23,7 @@ The main purpose is to introduce how to implement the RESTful API with Flask
 
 #### Configure Environment Variable for SMTP Mail Server
 
+- For this app we are going to use Google account
 - Edit `venv/bin/activate` file & add below parameters at the end of the file
 
 ```shell script
